@@ -2,8 +2,8 @@
 <head><title>GitHub</title></head>
 <body>
 
-<php
-echo "Hello World!"
+<?php 
+echo "Hello World!";
 ?>
 
 Hello World! Ook hallo!
