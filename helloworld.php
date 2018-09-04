@@ -6,6 +6,6 @@
 echo "Hello World!"
 ?>
 
-Hello World!
+Hello World! Ook hallo!
 </body>
 </html>
